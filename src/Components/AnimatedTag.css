@@ -1,0 +1,6 @@
+.animate-me {
+  line-height: 0;
+ &:nth-of-type(5) {
+  color: #eee;
+ }
+}
