@@ -15,7 +15,7 @@ import AWS from '../Images/AWS.svg';
 import Docker from '../Images/Docker.svg';
 import Kubernetes from '../Images/Kubernetes.svg';
 import Git from '../Images/Git.svg';
-import GitHub from '../Images/GitHub.svg';
+import GitHub from '../Images/Github.svg';
 import Jenkins from '../Images/Jenkins.svg';
 import Terraform from '../Images/Terraform.svg';
 import Ansible from '../Images/Ansible.svg';
